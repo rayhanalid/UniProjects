@@ -91,8 +91,6 @@ public class Main {
 		
 //=========================================================================================================================================//	
 //Game Level
-//Karena pakai interface dan bukan abstract bagian gambar monster error apabila level saya jadikan metoda, maka dari itu saya
-//buat level game secara manual mengingat dibutuhkan interface dan jumlah level yang sedikit (10).
 		
 		System.out.println();
 		System.out.println("You've encountered Slime level 1");
